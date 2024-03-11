@@ -24,7 +24,7 @@ input{
 }
 a{
     text-decoration: none;
-    font-weight: bold;
+    font-weight: 500;
 }
 .forgot{
     margin-left: 40px;
@@ -33,5 +33,19 @@ a{
 .image{
     width: 800px;
     margin-top: 50px;
+    margin-left: 15px;
+}
+.line{
+    border: 1px solid rgb(117, 109, 109);
+    width: 180px;
+    height: 0px;
+    margin-top: 14px;
+    margin-left: 50px;
+}
+.line2{
+    border: 1px solid rgb(117, 109, 109);
+    width: 180px;
+    height: 0px;
+    margin-top: 14px;
     margin-left: 15px;
 }
